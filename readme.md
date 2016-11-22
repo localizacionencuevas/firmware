@@ -1,7 +1,7 @@
 # Firmware Localización en Cuevas
 [![Localizacion en cuevas](https://cldup.com/QvZZtmnKTN.png)](http://www.localizacionencuevas.com)
 
-Este repositorio contiene el código fuente del firwmare necesario para ejecutar la aplicación sobre el hardware de localizacion en cuevas que conforma la red de sensores.
+Este repositorio contiene el código fuente del firwmare necesario para ejecutar la aplicación sobre el hardware de localización en cuevas que conforma la red de sensores.
 
 La plataforma de desarrollo que se ha utilizado es [Atmel Studio 7](http://www.atmel.com/Microsite/atmel-studio/), dentro del directorio apps hay 3 soluciones que contienen los siguientes componentes:
 
