@@ -1,0 +1,16 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Bootloader_ServiNet_ATmega1281", "Bootloader_ServiNet_ATmega1281.cproj", "{CBD6E974-48A2-4B26-A0F4-6B00B98CF674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|AVR = Default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD6E974-48A2-4B26-A0F4-6B00B98CF674}.Default|AVR.ActiveCfg = Debug|AVR
+		{CBD6E974-48A2-4B26-A0F4-6B00B98CF674}.Default|AVR.Build.0 = Debug|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
